@@ -1,4 +1,6 @@
 Next-Gen Futures Order System Contract
+
+----------------------------------------------------------------------------------------
 Objective: Develop a Solidity contract for managing advanced futures orders.
 Key Features:
 Support for various complex futures orders, like limit and stop orders.
@@ -9,3 +11,4 @@ Expanded Scope: Include exotic futures contracts (weather derivatives, predictio
 Innovative Feature: Use machine learning to predict market trends and adjust orders.
 Creative Interpretation: Design unique risk management tools within the contract.
 Expected Deliverable: A deployable, well-documented Solidity contract with user guides.
+----------------------------------------------------------------------------------------
