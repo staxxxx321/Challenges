@@ -1,4 +1,6 @@
 Challenge A: Advanced Asset Tokenization Smart Contract
+
+----------------------------------------------------------------------------------------
 Objective: Develop a Solidity smart contract for sophisticated tokenization of diverse assets.
 Key Features:
 Robust asset registration with detailed ownership records.
@@ -9,3 +11,4 @@ Expanded Scope: Incorporate fractional ownership and shared asset management mod
 Innovative Feature: Implement a decentralized dispute resolution system.
 Creative Interpretation: Encourage tokenization of unconventional asset classes.
 Expected Deliverable: A secure Solidity smart contract, comprehensive documentation, and innovative use case examples.
+----------------------------------------------------------------------------------------
